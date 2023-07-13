@@ -13,3 +13,4 @@ I am a seasoned, detail-oriented, blockchain & full-stack engineer. I have 6+ ye
 kevinjamesTech/kevinjamesTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Uploading poosail.png…]()
