@@ -1,10 +1,11 @@
 
 - 👋 Hi, I’m @kevinjamesTech
-- 👀 I’m interested in Mint-page(Poosail NFTS)
-- 💞️ I’m looking to collaborate on Blockchain NFTs
+- 👀 I’m interested in Blockchain and Web3
+- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me ...
-- telegram: seekVictory
-- skype: live:.cid.1e2f155a0c77df84
+   gmail:  kevinjames.tech10@gmail.com
+   telegram: seekVictory
+   skype: live:.cid.1e2f155a0c77df84
 
 
 
