@@ -20,52 +20,6 @@ Replace the value after ?user= with your GitHub username
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 Customize it here 👉 Click me!
 
-Spotify playing
-spotify
-GitHub logo JeffreyCA / spotify-recently-played-readme
-Display your recently played Spotify tracks on your GitHub profile README.
-Spotify Recently Played README
-Display your recently played Spotify tracks on your GitHub profile README. Powered by Vercel.
-
-Check out lastfm-recently-played-readme for a similar integration for Last.fm scrobbles.
-
-Getting Started
-Click the button below to connect your Spotify account with the Vercel app. This is needed to access your recently played tracks.
-
-By authorizing the app, you agree to have your Spotify username, access token, and refresh token stored on a secure Firebase database. This is required so you only need to authorize once and the app can automatically refresh access tokens in order to retrieve recent tracks.
-
-You can revoke the app at https://www.spotify.com/account/apps.
-
-Authorize button
-
-After granting permission, just add the following into your README and set the user query parameter to your Spotify username.
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-
-Link to Spotify profile
-Use the following snippet to make the widget link to your Spotify profile (or…
-
-View on GitHub
-Badges - Shields
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-Languages,tools and social icons badges
-
-More badges
-badges2
-
-Readme Typing SVG ⌨️
-GitHub repo
-Demo
-
-typing
-
-Views counter
-views
-GitHub logo antonkomarev / github-profile-views-counter
-It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
-GitHub Profile Views Counter
-GitHub Profile Views Counter
-
 Discord License
 
 Introduction
