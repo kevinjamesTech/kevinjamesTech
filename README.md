@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @kevinjamesTech
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in the new challenge
 - 💞️ I’m looking to collaborate on Full stack
 - 📫 How to reach me kevinjames.tech10@gmail.com
